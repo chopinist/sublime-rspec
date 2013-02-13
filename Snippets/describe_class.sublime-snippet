@@ -5,5 +5,5 @@
 end]]></content>
 	<tabTrigger>desc</tabTrigger>
 	<scope>source.ruby.rspec</scope>
-	<description>describe (String)</description>
+	<description>describe (Class)</description>
 </snippet>
