@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[context 'when ${1:some condition}' do
+
+	${0:pending}
+end]]></content>
+	<tabTrigger>con</tabTrigger>
+	<scope>source.ruby.rspec</scope>
+</snippet>
